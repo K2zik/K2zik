@@ -51,18 +51,3 @@ I love writing code that makes life easier!
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-7.0-red?style=for-the-badge&logo=redis&logoColor=white)
-
-
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K2zik&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K2zik&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=K2zik&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
